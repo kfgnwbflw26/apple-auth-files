@@ -1,11 +1,15 @@
 {
-  "name": "apple-auth-host",
+  "name": "apple-auth-files",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
     "build": "astro build"
   },
   "dependencies": {
-    "astro": "^4.0.0"
+    "astro": "^4.0.0",
+    "@astrojs/cloudflare": "^11.0.0",
+    "@astrojs/react": "^3.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   }
 }
