@@ -1,5 +1,4 @@
 {
-  "scripts": {
-    "build": "echo 'No build needed'"
-  }
+  "name": "apple-auth-host",
+  "type": "module"
 }
