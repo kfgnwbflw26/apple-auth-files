@@ -1,0 +1,8 @@
+{
+  "r2_buckets": [
+    {
+      "binding": "APPLE_CONFIG",
+      "bucket_name": "apple-auth-files"
+    }
+  ]
+}
