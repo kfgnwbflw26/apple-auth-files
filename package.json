@@ -1,0 +1,10 @@
+{
+  "name": "apple-auth-files",
+  "type": "module",
+  "scripts": {
+    "build": "mkdir -p dist/.well-known && cp public/.well-known/* dist/.well-known/"
+  },
+  "dependencies": {
+    "astro": "^4.0.0"
+  }
+}
