@@ -1,8 +1,9 @@
 {
-  "name": "apple-auth-files",
+  "name": "apple-auth-host",
   "type": "module",
+  "version": "1.0.0",
   "scripts": {
-    "build": "mkdir -p dist/.well-known && cp public/.well-known/* dist/.well-known/ || true"
+    "build": "astro build"
   },
   "dependencies": {
     "astro": "^4.0.0"
